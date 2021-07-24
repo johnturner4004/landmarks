@@ -10,7 +10,7 @@ This app contains a list of landmarks that the user can visit. Maps of the area 
 
 To run this code you will need Xcode and a Mac pc or Macbook.
 
-<a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12"  target="blank"><figure><img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="Download Xcode" width="50" height="50" /><figcaption>Xcode</figcaption></figure></a>
+<a href="https://apps.apple.com/us/app/xcode/id497799835?mt=12"  target="blank"><img src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" alt="Download Xcode" width="40" height="40" /></a>
 
 ## Installation
 
@@ -32,7 +32,7 @@ After downloading and installing Xcode, open the project in Xcode. From in Xcode
 
 ## Built With
 
-<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><figure><img src="https://img.icons8.com/fluent/100/000000/swiftui.png" width="50" height="50" /><figcaption>SwiftUI</figcaption></figure></a>
+<a href="https://developer.apple.com/xcode/swiftui/" target="_blank"> <img src="https://img.icons8.com/fluent/100/000000/swiftui.png" width="40" height="40" /></a>
 
 ## License
 

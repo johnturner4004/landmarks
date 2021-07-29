@@ -1,4 +1,4 @@
-![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/Landmarks.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/Landmarks.svg?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/johnturner4004/Landmarks?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/Landmarks.svg?style=for-the-badge&social)
+![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/Landmarks.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/Landmarks.svg?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/johnturner4004/Landmarks.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/Landmarks.svg?style=for-the-badge&social)
 
 # Landmarks
 
